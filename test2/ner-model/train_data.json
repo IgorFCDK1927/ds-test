@@ -1,0 +1,18 @@
+[
+    {
+        "text": "I saw a butterfly in the garden.",
+        "entities": [[7, 15, "ANIMAL"]]
+    },
+    {
+        "text": "My cat is sleeping.",
+        "entities": [[3, 6, "ANIMAL"]]
+    },
+    {
+        "text": "A farmer owns a cow and a dog.",
+        "entities": [[14, 17, "ANIMAL"], [26, 29, "ANIMAL"]]
+    },
+    {
+        "text": "A spider and a squirrel are climbing the tree.",
+        "entities": [[2, 8, "ANIMAL"], [15, 23, "ANIMAL"]]
+    }
+]
